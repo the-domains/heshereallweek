@@ -1,0 +1,29 @@
+name: HesHereAllWeek
+favicon: null
+layout_spectrum: 0.2817148787435144
+typography_spectrum: 0.6567456838674843
+title: "He's Here All Week"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6571552660316229
+  lightness: 0.2899652512278408
+  saturation: 0.6729004855733365
+  rhythmicContrast: 0.9339284156449139
+purpose: []
